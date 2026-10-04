@@ -54,7 +54,7 @@ tags:
 - Facilities
 - Energy
 - Sustainability
-- Real-Estate
+- Real Estate
 - Operating System
 - Defunct
 tags_raw:
@@ -68,6 +68,7 @@ tags_raw:
 - Real Estate
 - Operating System
 - Defunct
+- Real-Estate
 apis: []
 common:
 - type: GitHubOrganization
