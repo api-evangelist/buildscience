@@ -64,6 +64,34 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Buildscience is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: y-combinator
+BuildScience Inc. (Y Combinator Winter 2015) was a PropTech startup based in Mountain View, California that built an operating-system platform for commercial buildings. Its software let building owners and facility operators deploy customized building-management solutions intended to reduce operational costs while improving tenant satisfaction, and the company reported deploying in a one-million-square-foot Class A office building. As of the 2026 enrichment pass the company appears dormant: the buildscience.com domain no longer serves a live product (the host returns a CloudFront default certificate that does not match the domain and a broken origin), no developer portal, documentation, or public API surface could be located, and the organization's single public GitHub repository was last updated in January 2020. This profile is retained as a verified-identity network record; no API artifacts could be enriched because the provider publishes no live API.
+
+**Areas:** Company · PropTech · Buildings · Building Management · Facilities · Energy · Sustainability · Real Estate · Operating System · Defunct
+
+## Buildscience on APIs.io (historical record)
+
+Everything profiled for Buildscience is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/buildscience/](https://apis.io/providers/buildscience/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [GitHub](https://github.com/buildscience)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Buildscience: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/buildscience/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
